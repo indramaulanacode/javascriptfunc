@@ -31,3 +31,5 @@ console.log("List Nama");
 nama.forEach((member, index)=>{
     console.log(`${index}. ${member}`);
 });
+
+
